@@ -1,0 +1,10 @@
+{
+  "name": "dart-sass-testing",
+  "version": "0.0.0",
+  "description": "Learning dart-sass",
+  "author": "David Banks",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.51.0"
+  }
+}
